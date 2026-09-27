@@ -55,5 +55,5 @@ Full Stack          ████████░░░░░░░░░░  Buil
 🤝 Let's Connect
 <p align="center"> <a href="mailto:thesak9370@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/sakina-aiman/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/sakina-eng"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
 💭 Developer Mindset
-<p align="center"> <i>"The best way to learn is to build."</i> </p> <p align="center"> ⭐ If you find my projects interesting, consider giving them a star! </p>
+<p align="center"> <i>"Stay hungry, Stay foolish."</i> </p> <p align="center"> ⭐ If you find my projects interesting, consider giving them a star! </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" alt="Footer"/> </p>
