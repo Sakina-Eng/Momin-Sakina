@@ -1,36 +1,59 @@
-# Momin-Sakina
-<h1 align="center">Hi 👋, I'm Momin Sakina</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h1 align="center">Hi 👋, I'm Momin Sakina</h1> <h3 align="center"> 💻 Full Stack Developer • 🇮🇳 India • 🚀 Lifelong Learner </h3> <p align="center"> <a href="https://github.com/sakina-eng"> <img src="https://komarev.com/ghpvc/?username=sakina-eng&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </a> <a href="https://github.com/sakina-eng?tab=followers"> <img src="https://img.shields.io/github/followers/sakina-eng?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" /> </a> <a href="https://github.com/sakina-eng?tab=repositories"> <img src="https://img.shields.io/github/stars/sakina-eng?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" /> </a> </p>
+👩‍💻 About Me
+I'm Momin Sakina, a passionate developer from India who enjoys building projects, learning new technologies, and exploring the world of software development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakina-eng&label=Profile%20views&color=0e75b6&style=flat" alt="sakina-eng" /> </p>
+🔭 Currently working on my college project
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakina-eng" alt="sakina-eng" /></a> </p>
+🌱 Currently learning C, JavaScript, HTML & CSS
 
-- 🔭 I’m currently working on **my college project**
+👯 Looking to collaborate on interesting projects
 
-- 🌱 I’m currently learning **C Programming,Java Scrip,html,css**
+🤝 Looking for help and collaboration with FYESA 2026
 
-- 👯 I’m looking to collaborate on **that project**
+💬 Ask me about Full Stack Development
 
-- 🤝 I’m looking for help with **FYESA 2026**
+📚 Always learning something new
 
-- 💬 Ask me about **Full Stack Dev**
+⚡ Fun fact: I'm a lifelong learner
 
-- 📫 How to reach me **thesak9370@gmail.com**
+🛠️ Tech Stack
+💻 Languages
+<p align="left"> <a href="https://www.cprogramming.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/> </a> <a href="https://www.python.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> </a> </p>
+🌐 Web Development
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/> </a> <a href="https://react.dev/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/> </a> </p>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sakina-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakina-eng&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" /> </p>
+🔥 Contribution Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=sakina-eng&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /> </p>
+📈 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakina-eng&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sakina-eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" /> </p>
+⭐ Featured Projects
+<p align="center"> <a href="https://github.com/sakina-eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-eng&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" /> </a> <a href="https://github.com/sakina-eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-eng&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" /> </a> </p>
+💡 Replace YOUR_PROJECT_1 and YOUR_PROJECT_2 with the names of your actual repositories.
 
-- ⚡ Fun fact **I am a life-long learner**
+📌 What I'm Learning
+C Programming       ███████████░░░░░░░  Learning
+JavaScript          █████████░░░░░░░░░  Learning
+HTML & CSS          ████████████░░░░░░  Building
+React               ███████░░░░░░░░░░░  Exploring
+Python              ███████░░░░░░░░░░░  Exploring
+Full Stack          ████████░░░░░░░░░░  Building
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sakina aiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakina aiman" height="30" width="40" /></a>
-</p>
+🎯 Current Goals
+🚀 Build and deploy real-world projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+💻 Strengthen my full-stack development skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakina-eng&show_icons=true&locale=en&layout=compact" alt="sakina-eng" /></p>
+🧠 Improve problem-solving and programming fundamentals
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakina-eng&show_icons=true&locale=en" alt="sakina-eng" /></p>
+🤝 Contribute to open-source projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakina-eng&" alt="sakina-eng" /></p>
+🌱 Keep learning and experimenting with new technologies
 
+🤝 Let's Connect
+<p align="center"> <a href="mailto:thesak9370@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/sakina-aiman/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/sakina-eng"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
+💭 Developer Mindset
+<p align="center"> <i>"The best way to learn is to build."</i> </p> <p align="center"> ⭐ If you find my projects interesting, consider giving them a star! </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" alt="Footer"/> </p>
