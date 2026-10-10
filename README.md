@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Momin Sakina</h1> <h3 align="center"> 💻 Full Stack Developer • 🇮🇳 India • 🚀 Lifelong Learner </h3> <p align="center"> <a href="https://github.com/sakina-Eng"> <img src="https://komarev.com/ghpvc/?username=sakina-eng&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </a> <a href="https://github.com/sakina-Eng?tab=followers"> <img src="https://img.shields.io/github/followers/sakina-Eng?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" /> </a> <a href="https://github.com/sakina-Eng?tab=repositories"> <img src="https://img.shields.io/github/stars/sakina-Eng?label=Stars&style=for-the-badge&color="yellow" alt="GitHub Stars" /> </a> </p>
+<h1 align="center">Hi 👋, I'm Momin Sakina</h1> <h3 align="center"> 💻 Full Stack Developer • 🇮🇳 India • 🚀 Lifelong Learner </h3> <p align="center"> <a href="https://github.com/sakina-Eng"> <img src="https://komarev.com/ghpvc/?username=sakina-Eng&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </a> <a href="https://github.com/sakina-Eng?tab=followers"> <img src="https://img.shields.io/github/followers/sakina-Eng?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" /> </a> <a href="https://github.com/sakina-Eng?tab=repositories"> <img src="https://img.shields.io/github/stars/sakina-Eng?label=Stars&style=for-the-badge&color="yellow" alt="GitHub Stars" /> </a> </p>
 👩‍💻 About Me
 I'm Momin Sakina, a passionate developer from India who enjoys building projects, learning new technologies, and exploring the world of software development.
 
@@ -30,13 +30,13 @@ I'm Momin Sakina, a passionate developer from India who enjoys building projects
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sakina-Eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" /> </p>
 ⭐ Featured Projects
-<p align="center"> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=Momin-Sakina&theme=tokyonight&hide_border=true" alt="Featured Project 1" /> </a> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=Momin-Sakina&theme=tokyonight&hide_border=true" alt="Featured Project 2" /> </a> </p>
+<p align="center"> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=Momin-Sakina&theme=tokyonight&hide_border=true" alt="Featured Project 1" /> </a> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=momin-sakina portfolio&theme=tokyonight&hide_border=true" alt="Featured Project 2" /> </a> </p>
 
 
 📌 What I'm Learning
-C Programming       ███████████░░░░░░░  Learning level.1
-JavaScript          █████████░░░░░░░░░  Learning level.1
-HTML & CSS          ████████████░░░░░░  Learning level.1
+C Programming       ███████████░░░░░░░  Learning level 0.1
+JavaScript          █████████░░░░░░░░░  Learning level 0.1
+HTML & CSS          ████████████░░░░░░  Learning level 0.1
 React               ███████░░░░░░░░░░░  Exploring ------
 Python              ███████░░░░░░░░░░░  Exploring ------
 Full Stack          ████████░░░░░░░░░░  Building  ------ 
