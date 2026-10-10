@@ -25,10 +25,7 @@ I'm Momin Sakina, a passionate developer from India who enjoys building projects
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sakina-Eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakina-Eng&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" /> </p>
 🔥 Contribution Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=sakina-eng&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /> </p>
-📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakina-Eng&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sakina-Eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" /> </p>
+
 ⭐ Featured Projects
 <p align="center"> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=Momin-Sakina&theme=tokyonight&hide_border=true" alt="Featured Project 1" /> </a> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=momin-sakina-portfolio&theme=tokyonight&hide_border=true" alt="Featured Project 2" /> </a> </p>
 
