@@ -8,7 +8,7 @@ I'm Momin Sakina, a passionate developer from India who enjoys building projects
 
 👯 Looking to collaborate on interesting projects
 
-🤝 Looking for help and collaboration with FYESA 2026
+🤝 Looking for help and collaboration with FYESA 0.1-2026
 
 💬 Ask me about Full Stack Development
 
@@ -31,15 +31,15 @@ I'm Momin Sakina, a passionate developer from India who enjoys building projects
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sakina-Eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" /> </p>
 ⭐ Featured Projects
 <p align="center"> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" /> </a> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" /> </a> </p>
-💡 Replace YOUR_PROJECT_1 and YOUR_PROJECT_2 with the names of your actual repositories.
+
 
 📌 What I'm Learning
-C Programming       ███████████░░░░░░░  Learning
-JavaScript          █████████░░░░░░░░░  Learning
-HTML & CSS          ████████████░░░░░░  Building
-React               ███████░░░░░░░░░░░  Exploring
-Python              ███████░░░░░░░░░░░  Exploring
-Full Stack          ████████░░░░░░░░░░  Building
+C Programming       ███████████░░░░░░░  Learning level.1
+JavaScript          █████████░░░░░░░░░  Learning level.1
+HTML & CSS          ████████████░░░░░░  Learning level.1
+React               ███████░░░░░░░░░░░  Exploring ------
+Python              ███████░░░░░░░░░░░  Exploring ------
+Full Stack          ████████░░░░░░░░░░  Building  ------ 
 
 🎯 Current Goals
 🚀 Build and deploy real-world projects
@@ -54,6 +54,6 @@ Full Stack          ████████░░░░░░░░░░  Buil
 
 🤝 Let's Connect
 <p align="center"> <a href="mailto:thesak9370@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/sakina-aiman/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/sakina-Eng"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
-💭 Developer Mindset
+
 <p align="center"> <i>"Stay hungry, Stay foolish."</i> </p> <p align="center"> ⭐ If you find my projects interesting, consider giving them a star! </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" alt="Footer"/> </p>
