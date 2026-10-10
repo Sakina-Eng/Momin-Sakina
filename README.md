@@ -30,7 +30,7 @@ I'm Momin Sakina, a passionate developer from India who enjoys building projects
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sakina-Eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" /> </p>
 ⭐ Featured Projects
-<p align="center"> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" /> </a> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" /> </a> </p>
+<p align="center"> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=Momin-Sakina&theme=tokyonight&hide_border=true" alt="Featured Project 1" /> </a> <a href="https://github.com/sakina-Eng"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakina-Eng&repo=Momin-Sakina&theme=tokyonight&hide_border=true" alt="Featured Project 2" /> </a> </p>
 
 
 📌 What I'm Learning
